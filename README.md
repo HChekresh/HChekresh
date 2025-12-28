@@ -10,6 +10,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-1d1f21?style=flat&logo=fastapi&logoColor=white&labelColor=009688)
 ![SQLModel](https://img.shields.io/badge/SQLModel-1d1f21?style=flat&logo=fastapi&logoColor=white&labelColor=336791)
 ![Supabase](https://img.shields.io/badge/Supabase-1d1f21?style=flat&logo=supabase&logoColor=white&labelColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-1d1f21?style=flat&logo=mongodb&logoColor=white&labelColor=009688)
 
 ![](https://img.shields.io/badge/Node.js-1d1f21?style=flat&logo=node.js&logoColor=white&labelColor=339933)
 ![Angular](https://img.shields.io/badge/Angular-1d1f21?style=flat&logo=angular&logoColor=white&labelColor=DD0031)
