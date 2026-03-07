@@ -21,8 +21,6 @@
 ![](https://img.shields.io/badge/JavaScript-1d1f21?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
   
 </div>
-
-
 <div align="center">
 
 # 📊 GitHub Stats:
@@ -34,5 +32,4 @@
 
 ---
 <!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Chekresh98&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
-
 </div>
