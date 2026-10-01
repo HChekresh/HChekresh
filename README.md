@@ -67,8 +67,6 @@ Software engineer focused on full-stack development and AI-powered systems — c
 
 <img src="https://streak-stats.demolab.com?user=HChekresh&theme=dark&hide_border=true" alt="GitHub streak stats" width="60%" />
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=HChekresh&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/HChekresh)
-
 </div>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=196756273" target="_blank" align="center">
@@ -83,17 +81,6 @@ Software engineer focused on full-stack development and AI-powered systems — c
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HChekresh&theme=github_dark" alt="Most commit language" width="49%" />
 </div>
 
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HChekresh/HChekresh/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/HChekresh/HChekresh/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-<sub><em>Generated automatically on push/every 12h by <a href="https://github.com/Platane/snk">Platane/snk</a> and <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, both pinned to this account — nothing here needs manual updates.</em></sub>
+<sub><em>Stats are generated live by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and <a href="https://ossinsight.io/">OSS Insight</a>, both pinned to this account — nothing here needs manual updates.</em></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1594FD&height=100&section=footer" width="100%" />
