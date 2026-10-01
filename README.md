@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/chekresh/">
   <img src="https://img.shields.io/badge/LinkedIn-1d1f21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
-<a href="mailto:admin@ailens.ai">
+<a href="mailto:hosbectchekresh@gmail.com">
   <img src="https://img.shields.io/badge/Email-1d1f21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
 
